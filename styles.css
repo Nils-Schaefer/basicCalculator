@@ -17,4 +17,16 @@ body {
 .display {
     background-color: #999;
     overflow: none;
+    height: 20vh;
+    width: 20rem;
+}
+
+.calcButtonWrapper {
+    height: 60vh;
+}
+
+.calcButton {
+    background-color: grey;
+    height: 15vh;
+    width: 5rem;
 }
